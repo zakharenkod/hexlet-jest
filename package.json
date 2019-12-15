@@ -1,10 +1,10 @@
 {
   "name": "hexlet-jest",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "hexlet jest",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "make test"
   },
   "keywords": [
     "hexlet",
